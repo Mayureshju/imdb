@@ -685,3 +685,10 @@ margin-left: 10px;
     cursor: pointer;
     color: hsl(0, 0%, 96%)
 }
+
+.img-logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 6px;
+    margin-top: 5px;
+}
